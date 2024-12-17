@@ -1,0 +1,16 @@
+{
+  "coffees": [
+    {
+      "name": "Ethiopian Yirgacheffe",
+      "type": "Single Origin",
+      "roast": "Light",
+      "price": 18.99
+    },
+    {
+      "name": "Colombian Supremo",
+      "type": "Single Origin",
+      "roast": "Medium",
+      "price": 16.99
+    }
+  ]
+}
